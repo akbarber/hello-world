@@ -1,5 +1,16 @@
 # hello-world
 This Repo is to test github exercises
 
-I am creating this Repo for 8470 Secure Web Dev at UNO
-this is a change to create a pull request tied to an issue
+Project name: Hello World
+
+Description: Testing out different functions in GitHub
+
+Table of Contents: None
+
+Installation: None
+
+Usage: None
+
+Contributing: None
+
+License: No license needed yet
